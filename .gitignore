@@ -1,0 +1,13 @@
+.DS_Store
+.dart_tool/
+.idea/
+.vscode/
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
+movie_man_app_assets/
+key.jks
